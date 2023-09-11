@@ -1,0 +1,9 @@
+git clone https://github.com/Cilab-kr/Line-Lane-Follower-Robot_ROS.git
+cd Line-Lane-Follower-Robot_ROS
+chmod +x *.py
+
+roslaunch cilab_driver cilab_camera.launch
+roslaunch cilab_driver cilab_lidar.launch
+roslaunch cilab_driver cilab_driver.launch
+
+rosrun line_lane_follower lidar_avoidance.py
