@@ -20,12 +20,11 @@ https://github.com/wvssm/2023_Self_Driving/assets/52875244/9a7991bf-d41a-4be2-9d
 
 # 개발 환경 및 언어
 - Environment <br>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-<br>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
 - Platform <br>
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white">
-  
+
 - Language <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 # 🧑‍💻 참가 및 역할 분담
