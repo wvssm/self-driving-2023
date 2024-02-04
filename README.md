@@ -8,7 +8,6 @@
 -  제공된 코드를 수정하여 모형차가 **"직선 및 곡선 주행"**, **"장애물 회피"**, **"오르막 주행"**, **"신호등 인식"** 을 수행할 수 있도록 한다.
 - 차량의 컨셉을 정하고, 그에 맞는 차체를 제작하여 주행한다.
 - 가장 빠른 시간 내에 경기장을 주행하는 팀이 수상한다.
-
 <br/>
 
 https://github.com/wvssm/2023_Self_Driving/assets/52875244/9a7991bf-d41a-4be2-9dd6-697c2f2a9915
@@ -19,14 +18,12 @@ https://github.com/wvssm/2023_Self_Driving/assets/52875244/9a7991bf-d41a-4be2-9d
 |![차량사진1](./images/car_1.jpg)|![차량사진2](./images/car_2.jpg)|-->
 
 # 개발 환경 및 언어
-- Environment <br>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-- Platform <br>
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white">
+<br/>
 
-- Language <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 # 🧑‍💻 참가 및 역할 분담
 |강수민|팀원 1|팀원 2|
 |:-----|:-----|:-----|
