@@ -3,6 +3,12 @@
 > 지능형자동차부품진흥원에서 주최한 『[2023 대구모형전기자율주행차 경진대회](http://www.kiapi.or.kr/pages/board/view.php?board_sid=1&data_sid=723&page_num=2&skey=&sval=)』에 참가하여 OpenCV를 이용해 모형 자동차의 주행 기능을 개발 과정을 기록한 저장소입니다.
 <br/>
 
+# 🧑‍💻 참여 현황
+|2020년|2022년|2023년|
+|:---|:---|:---|
+|<img src = "https://github.com/wvssm/self-driving-2023/blob/main/images/join_2020.jpg?raw=true" width="400" height="500"/>|<img src = "https://github.com/wvssm/self-driving-2023/blob/main/images/join_2022.jpg?raw=true" width="400" height="500"/>|<img src = "https://github.com/wvssm/self-driving-2023/blob/main/images/join_2023.png?raw=true" width="400" height="500"/>|
+<br/>
+
 # 👐 소개
 - ## 주제 : 자율주행 모형차를 이용한 미션 수행 및 경기장 주행
 -  제공된 코드를 수정하여 모형차가 **"직선 및 곡선 주행"**, **"장애물 회피"**, **"오르막 주행"**, **"신호등 인식"** 을 수행할 수 있도록 합니다.
