@@ -6,7 +6,7 @@
 # 🧑‍💻 참여 현황
 |2020년|2022년|2023년|
 |:---|:---|:---|
-|<img src = "https://github.com/wvssm/self-driving-2023/blob/main/images/join_2020.jpg?raw=true" width="400" height="500"/>|<img src = "https://github.com/wvssm/self-driving-2023/blob/main/images/join_2022.jpg?raw=true" width="400" height="500"/>|<img src = "https://github.com/wvssm/self-driving-2023/blob/main/images/join_2023.png?raw=true" width="400" height="500"/>|
+|<img src = "https://github.com/wvssm/self-driving-2023/blob/main/images/join_2020.jpg?raw=true" width="400" height="450"/>|<img src = "https://github.com/wvssm/self-driving-2023/blob/main/images/join_2022.jpg?raw=true" width="400" height="450"/>|<img src = "https://github.com/wvssm/self-driving-2023/blob/main/images/join_2023.png?raw=true" width="400" height="450"/>|
 <br/>
 
 # 👐 소개
